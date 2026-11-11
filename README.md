@@ -1,7 +1,9 @@
-# NOKTU TV — site estático
+# NOKTU TV | Site institucional R3
 
-Fonte da versão R2.1 para publicação no Render. Apenas HTML, CSS, JS, fontes, ícones e fotos de ambientação. Nenhum dado de usuários, API, servidor ou segredo.
+Landing page estática em HTML, CSS e JavaScript, hospedada na Render.
 
-Publicação de teste: robots noindex até migração DNS e revisão final.
+R3: tipografia Manrope, marca oficial, layout editorial, prévias apenas em skeleton; nenhum catálogo fictício, dado de usuário, API, backend ou credencial.
 
-Atualize o diretório copiando os arquivos revisados de public-site (não o backend).
+QA: 5 viewports (1920, 1440, 768, 390, 320), abas acessíveis por clique e teclado e 10 checks estáticos.
+
+Publicação atual com noindex até revisão e DNS final.
