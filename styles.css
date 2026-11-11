@@ -186,7 +186,7 @@ button{font:inherit}
 .footer-main{display:flex;align-items:center;justify-content:flex-start;padding-bottom:50px}
 .footer-main img{width:185px;height:auto}
 .footer-main p{font-size:clamp(24px,3vw,40px);font-weight:650;letter-spacing:-.052em;margin:0}
-.footer-bottom{border-top:1px solid var(--rule-dark);display:grid;grid-template-columns:auto 1fr auto;gap:28px;align-items:center;padding-top:23px;color:#859a94;font-size:10px;line-height:1.7}
+.footer-bottom{border-top:1px solid var(--rule-dark);display:flex;align-items:center;justify-content:space-between;gap:24px;padding-top:23px;color:#859a94;font-size:10px;line-height:1.7}
 .footer-bottom p{margin:0;text-align:center}
 .footer-bottom a{color:#bdceca;white-space:nowrap}
 .footer-bottom a span{color:var(--mint);margin-left:7px}
