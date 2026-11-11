@@ -1,4 +1,13 @@
-# NOKTU TV · Site institucional R3.1
+# NOKTU TV · Site institucional R3.2
+
+## Direção autoral R3.2
+- Redução editorial inspirada em interfaces audiovisuais premium: hero 'Você no controle.', 1 CTA útil, sem ribbon, subtítulos numerados, cards ou copy desnecessário.
+- Seção Experiência: apenas três capacidades legíveis e skeletons Início/Ao vivo interativos; rótulo de prévia honesto.
+- NOKTU Connect: mensagem breve e estado 'Em desenvolvimento'; seção Dispositivos: logos Samsung/LG + status reais sem captions e sem chips com borda.
+- Footer compacto com marca, status e referência de uso das marcas sem vínculo. Manter noindex até finalização da migração de domínio e revisão comercial.
+- QA local `node ../qa/qa-public-site-r3.mjs` 5 breakpoints e `node tools/qa-release.mjs` 13 verificações de release.
+
+---
 
 ## Objetivo
 Site institucional premium de apresentação da NOKTU TV, separado dos serviços de reprodução e do painel comercial. Linguagem para consumidores: navegação por controle remoto, programação ao vivo, filmes, séries, dispositivos e NOKTU Connect. NÃO utilizar jargões de sistemas de distribuição de canais na cópia pública.
